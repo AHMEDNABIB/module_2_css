@@ -4,20 +4,20 @@
 
 h1 {
 	background-color: red;
-	padding-top: 80px;
-	padding-bottom: 10px;
-	padding-left: 25px;
-	padding-right: 35px;
-}
+	margin-top: 80px;
+	margin-bottom: 10px;
+	margin-left: 25px;
+	margin-right: 3px;}
 
+    
 p {
 	background: blue;
-    
-	/* padding: 10px  all side padding */
 
-	/* padding: 30px (top,bottom) 45px(Left,Right); */
+	/* margin: 10px  all side padding */
 
-    /* padding: 10px (top) 20px(Right) 30px (bottom) 40px(Left); */
+	/* margin: 30px (top,bottom) 45px(Left,Right); */
+
+    /* margin: 10px (top) 20px(Right) 30px (bottom) 40px(Left); */
 
 
 }
