@@ -1,16 +1,23 @@
 /* 
-   rem= Relative depends root
-   1rem = 16 px default browser style
+    CSS BOX MODEL
  */
 
-.banner {
-	width: 50 vw;
-	height: 50vh;
+h1 {
 	background-color: red;
+	padding-top: 80px;
+	padding-bottom: 10px;
+	padding-left: 25px;
+	padding-right: 35px;
 }
 
-.header {
-	width: 50 vw;
-	height: 50vh;
-	background-color: red;
+p {
+	background: blue;
+    
+	/* padding: 10px  all side padding */
+
+	/* padding: 30px (top,bottom) 45px(Left,Right); */
+
+    /* padding: 10px (top) 20px(Right) 30px (bottom) 40px(Left); */
+
+
 }
