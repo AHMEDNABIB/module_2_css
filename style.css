@@ -1,12 +1,19 @@
+/* 
+   rem= Relative depends root
+   1rem = 16 px default browser style
+ */
 
+ html{
+     font-size: 20px;
+ }
 div{
     font-size: 10px;
 }
 
 .relative{
-    font-size: 2em;
+    font-size: 2rem;
 }
 
 .absolute{
-    font-size: 32px;
+    font-size: 12px;
 }
