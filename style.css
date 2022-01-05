@@ -3,17 +3,14 @@
    1rem = 16 px default browser style
  */
 
- html{
-     font-size: 20px;
- }
-div{
-    font-size: 10px;
+.banner {
+	width: 50 vw;
+	height: 50vh;
+	background-color: red;
 }
 
-.relative{
-    font-size: 2rem;
-}
-
-.absolute{
-    font-size: 12px;
+.header {
+	width: 50 vw;
+	height: 50vh;
+	background-color: red;
 }
