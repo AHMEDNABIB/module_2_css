@@ -1,11 +1,12 @@
-.inner{
-    width: 50%;
-    height: 50%;
-    background-color: red;
+
+div{
+    font-size: 10px;
 }
 
-.outer{
-    width: 500px;
-    height: 500px;
-    background-color: green;
+.relative{
+    font-size: 2em;
+}
+
+.absolute{
+    font-size: 32px;
 }
